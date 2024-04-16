@@ -1,0 +1,23 @@
+*,
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    list-style-type: none;
+    background-image: url(./assets/back-ground.jpeg);
+    background-size: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+p{
+    color: white;
+}
